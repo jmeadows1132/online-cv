@@ -50,7 +50,14 @@ education:
     - degree: MBA, Finance
       university: Xavier University
       time: 2010 - 2013
-      details: 
+      details: |
+        -3.9 GPA
+    - degree: BA, Philosophy
+      university: Xavier University
+      time: 1997 - 2001
+      details: |
+        - Trustee Scholarship
+        -University Scholars Program
 experiences:
     - role: Business Systems Analyst
       time: 2018 - Present
@@ -85,3 +92,10 @@ experiences:
         Had a civil practice centering on real estate, property, tax, estate and small business matters.
           -Successfully attached judgment to successor in interest of dissolved corporation, dependent on 
           analysis of financial outflows to successor. 
+    - role: Prosecutor
+      time: 2004 - 2012
+      company: Commonwealth Attorney, 16th Judicial Circuit 
+      details: |
+        Served as director of Information Technology for 5 years.  Prosecuted several finance intensive cases, usually involving embezzlement,
+        including the conviction of the CFO of Mazak Corp. (America). Lead Prosecutor for drug cases, especially conspiracy charges for 
+        distributions. Won verdicts against three separate bars. One was forfeited to the state based on the owner's complicity with drug dealing. 
