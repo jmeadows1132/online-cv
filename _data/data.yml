@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Joseph Meadows
@@ -66,8 +66,11 @@ experiences:
         Advise and manage changes for 12 products in the CDK portfolio that handle motor vehicle sales and
         lease taxes in various jurisdictions.Monitor laws and regulations regarding auto dealers in all 
         50 states, Canada, and some Caribbean countries.
+        
           -Created a Slackbot that will deliver notifications when laws passed in any of the 50 states based on subject.
+          
           -Built a Python web application that calculates motor vehicle lease taxes for all US States and Canada.
+          
     - role: Director of Product
       time: 2017 
       company: Label Insight, Chicago
