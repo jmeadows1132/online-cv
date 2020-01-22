@@ -16,7 +16,7 @@ sidebar:
     phone: 859 466 4241
     website: jmeadows1132.dev #do not add http://
     linkedin: joseph-meadows-a74a6615
-    github: 
+    github: jmeadows1132
     gitlab:
     bitbucket:
     twitter: 
@@ -99,3 +99,15 @@ experiences:
         Served as director of Information Technology for 5 years.  Prosecuted several finance intensive cases, usually involving embezzlement,
         including the conviction of the CFO of Mazak Corp. (America). Lead Prosecutor for drug cases, especially conspiracy charges for 
         distributions. Won verdicts against three separate bars. One was forfeited to the state based on the owner's complicity with drug dealing. 
+skills:
+    title: Skills
+
+    toolset:
+      - name: Python / Flask / Pandas
+
+      - name: Scrum / Agile Practices
+
+      - name: Excel / VBA
+
+      - name: Confluence & Jira
+      
