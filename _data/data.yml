@@ -104,10 +104,14 @@ skills:
 
     toolset:
       - name: Python / Flask / Pandas
+        level: 50%
 
       - name: Scrum / Agile Practices
+      - level: 90%
 
       - name: Excel / VBA
+      - level: 40%
 
       - name: Confluence & Jira
+      - level: 90%
       
